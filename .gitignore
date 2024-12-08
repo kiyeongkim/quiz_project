@@ -1,0 +1,5 @@
+src/__pycache__
+config/settings.py
+venv
+assets/*
+!assets/.gitkeep
