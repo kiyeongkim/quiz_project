@@ -1,0 +1,17 @@
+{
+  "topic": "문화&예술",
+  "quiz": [
+    {
+      "question": "모나리자(Mona Lisa)의 화가는 누구인가요?",
+      "answer": "레오나르도 다 빈치(Leonardo da Vinci)"
+    },
+    {
+      "question": "'아폴로 11호'의 우주 비행사 중 한 명의 이름은 무엇인가요?",
+      "answer": "닐 암스트롱(Neil Armstrong)"
+    },
+    {
+      "question": "전통적인 중국의 연희예술은 무엇이라고 불리우나요?",
+      "answer": "'베이징 오페라(京剧)'"
+    }
+  ]
+}
