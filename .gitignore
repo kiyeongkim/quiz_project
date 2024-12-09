@@ -1,6 +1,9 @@
-src/__pycache__
-config/settings.py
 venv
+src/__pycache__
+config/*
+!config/.gitkeep
+export/*
+!export/.gitkeep
 assets/audio/bgm/*
 !assets/audio/bgm/.gitkeep
 assets/audio/on_bgm/*
